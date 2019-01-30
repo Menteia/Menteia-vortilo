@@ -1,2 +1,5 @@
-project/target/**/*
-.idea/**/*
+target/*
+project/target/*
+project/project/*
+.idea/*
+lib_managed/*
